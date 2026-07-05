@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sukru 👋</h1>
-<h3 align="center">Full-Stack Developer · Odoo ERP Specialist · Based in the Netherlands 🇳🇱</h3>
+<h3 align="center">Full-Stack Developer (.NET) · Odoo ERP Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+ERP+solutions+with+Odoo+19%2B;Python+%7C+PostgreSQL+%7C+Docker+%7C+JavaScript;Designing+end-to-end+business+workflows;Always+learning%2C+always+building" alt="Typing SVG" />
@@ -28,6 +28,9 @@
 ### 🛠️ Tech Stack
 
 <p>
+   <a title="Python" href="[https://www.python.org/](https://dotnet.microsoft.com/en-us/apps/aspnet)" target="_blank">
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=net&theme=light" alt=".NET" height="50" />
+  </a>
   <a title="Python" href="https://www.python.org/" target="_blank">
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" height="50" />
   </a>
