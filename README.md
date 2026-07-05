@@ -28,8 +28,11 @@
 ### 🛠️ Tech Stack
 
 <p>
-   <a title="Python" href="[https://www.python.org/](https://dotnet.microsoft.com/en-us/apps/aspnet)" target="_blank">
+   <a title="Python" href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=net&theme=light" alt=".NET" height="50" />
+  </a>
+   <a title="Python" href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=mssql&theme=light" alt="MSSQ" height="50" />
   </a>
   <a title="Python" href="https://www.python.org/" target="_blank">
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=python&theme=light" alt="Python" height="50" />
