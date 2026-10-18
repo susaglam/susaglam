@@ -60,14 +60,14 @@ I build and run business software end to end — from the data model and the ERP
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/susaglam/3d-prefabrik">🏠 Prefab Configurator</a></h3>
+      <h3><a href="https://prefabpartner.codesnap.nl/prefab">🏠 Prefab Configurator</a></h3>
       A four-step configurator for prefab home extensions: size-driven 3D and 2D views, server-side price and scope calculation, shareable designs, immutable PDF quotes — feeding straight into Odoo customers, CRM, quotations and projects.
       <br /><br />
       <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
       <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <br /><br />
-      <a href="https://prefabpartner.codesnap.nl/prefab">▶ Live demo</a> · <a href="https://github.com/susaglam/3d-prefabrik">Source</a>
+      <a href="https://prefabpartner.codesnap.nl/prefab">▶ Live demo</a> · <sub>client project, source private</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/susaglam/Learn-harness-engineering">🧪 Learn Harness Engineering</a></h3>
