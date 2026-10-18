@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I'm currently building a full **Odoo 19+ ERP system**
+- 🔭 I'm currently building a full **Odoo ERP system**
 - 🧩 I love designing modular architectures — CRM, quotations, projects, procurement, and product configurators
 - 🐳 Comfortable with Docker, Coolify, and self-hosted deployments
 - 🌱 Currently deepening my knowledge of **Odoo ORM, OWL framework, and PostgreSQL optimization**
