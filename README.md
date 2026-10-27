@@ -27,7 +27,6 @@ I build and run business software end to end — from the data model and the ERP
 - ⏳ Working across software, infrastructure and digital services since **2001**
 - 🔭 Currently building **Odoo 20 (OWL 3)** modules: product configurators, quotation flows, and customer self-service for domains, DNS, hosting and email
 - 🤖 Making ERP actions callable by AI agents through **MCP** (Model Context Protocol)
-- 🏭 Most at home in **flooring, bathroom & sanitary, and custom manufacturing** workflows
 - 🌍 Dutch · English · Turkish
 
 ## 🧭 What I work on
